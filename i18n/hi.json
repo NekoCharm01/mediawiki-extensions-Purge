@@ -2,9 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Abijeet Patro",
-			"Kaustubh\r */\r"
+			"Kaustubh\r */\r",
+			"Saurmandal"
 		]
 	},
-	"purge": "साफ करें (purge)",
+	"purge": "साफ करें",
 	"purge-failed": "साफ करने में विफल"
 }
