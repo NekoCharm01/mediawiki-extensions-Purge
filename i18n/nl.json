@@ -3,10 +3,11 @@
 		"authors": [
 			"Mainframe98",
 			"Mar(c)",
-			"SPQRobin\r * @author Siebrand\r */\r"
+			"SPQRobin\r * @author Siebrand\r */\r",
+			"Siebrand"
 		]
 	},
-	"purge": "Verversen",
+	"purge": "Vernieuwen",
 	"purge-descriptionmsg": "Voegt een tabblad \"cache legen\" toe op alle normale pagina's zodat de cache snel gepurged kan worden",
 	"purge-failed": "Verversen is mislukt"
 }

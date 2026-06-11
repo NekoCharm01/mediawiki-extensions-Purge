@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Jim-by\r * @author Wizardist\r */\r",
-			"Red Winged Duck"
+			"Red Winged Duck",
+			"Ucukor"
 		]
 	},
 	"purge": "ачысьціць",
 	"purge-descriptionmsg": "Дадае закладку ачысткі на ўсе звычайныя старонкі для хуткай ачысткі кэшу",
-	"purge-failed": "Ачыстка не атрымалася"
+	"purge-failed": "Ачыстка не ўдалася"
 }
