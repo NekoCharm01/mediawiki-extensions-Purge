@@ -1,9 +1,16 @@
 # Changelogs
 
+## Version 2.1.2
+
+* Language updates.
+* Minor update to JavaScript files.
+
 ## Version 2.1.1
+
 * Fix ResourceLoader module paths.
 
 ## Version 2.1.0
+
 * Remove deprecated `SkinTemplateNavigation` hook.
 * Bump major version as it will require MW 1.35+
 
